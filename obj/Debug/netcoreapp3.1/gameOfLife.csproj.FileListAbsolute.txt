@@ -1,0 +1,13 @@
+/home/joachim/Projects/Programing/dotnet/gameOfLife/bin/Debug/netcoreapp3.1/gameOfLife
+/home/joachim/Projects/Programing/dotnet/gameOfLife/bin/Debug/netcoreapp3.1/gameOfLife.deps.json
+/home/joachim/Projects/Programing/dotnet/gameOfLife/bin/Debug/netcoreapp3.1/gameOfLife.runtimeconfig.json
+/home/joachim/Projects/Programing/dotnet/gameOfLife/bin/Debug/netcoreapp3.1/gameOfLife.runtimeconfig.dev.json
+/home/joachim/Projects/Programing/dotnet/gameOfLife/bin/Debug/netcoreapp3.1/gameOfLife.dll
+/home/joachim/Projects/Programing/dotnet/gameOfLife/bin/Debug/netcoreapp3.1/gameOfLife.pdb
+/home/joachim/Projects/Programing/dotnet/gameOfLife/obj/Debug/netcoreapp3.1/gameOfLife.csprojAssemblyReference.cache
+/home/joachim/Projects/Programing/dotnet/gameOfLife/obj/Debug/netcoreapp3.1/gameOfLife.AssemblyInfoInputs.cache
+/home/joachim/Projects/Programing/dotnet/gameOfLife/obj/Debug/netcoreapp3.1/gameOfLife.AssemblyInfo.cs
+/home/joachim/Projects/Programing/dotnet/gameOfLife/obj/Debug/netcoreapp3.1/gameOfLife.csproj.CoreCompileInputs.cache
+/home/joachim/Projects/Programing/dotnet/gameOfLife/obj/Debug/netcoreapp3.1/gameOfLife.dll
+/home/joachim/Projects/Programing/dotnet/gameOfLife/obj/Debug/netcoreapp3.1/gameOfLife.pdb
+/home/joachim/Projects/Programing/dotnet/gameOfLife/obj/Debug/netcoreapp3.1/gameOfLife.genruntimeconfig.cache
